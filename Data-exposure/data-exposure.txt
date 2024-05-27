@@ -21,7 +21,7 @@ The "Custom Data Exposure" plugin enables WordPress users to expose custom data 
 This section describes how to install the plugin and get it working.
 
 1. **Upload Plugin:**
-   - Download the plugin from [link-to-github.zip].
+   - Download the plugin from https://github.com/Taskeenhaider509/data-exposure-wordpress-plugin.git.
    - Upload the `plugin-name` directory to the `/wp-content/plugins/` directory.
 
 2. **Activate the Plugin:**
