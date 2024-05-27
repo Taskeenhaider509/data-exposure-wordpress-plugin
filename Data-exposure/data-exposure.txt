@@ -1,0 +1,49 @@
+=== Custom Data Exposure ===
+Contributors: Taskeen Haider
+Tags: API, Custom API
+Requires at least: 5.2
+Tested up to: 5.9
+Stable tag: 1.0.0
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+A plugin to expose custom data via the WordPress REST API.
+
+== Description ==
+The "Custom Data Exposure" plugin enables WordPress users to expose custom data via the WordPress REST API. This plugin is particularly useful for scenarios where you need to extend WordPress by adding custom fields to posts and then make that data available for external applications or services through a RESTful interface.
+
+== Features ==
+- **Custom Post Type:** Creates a custom post type named "Datas" to store your custom data.
+- **Custom Fields:** Provides a user-friendly interface to add and manage custom fields for each "Datas" post.
+- **REST API Endpoints:** Exposes the custom field data through REST API endpoints, allowing other applications or services to fetch, create, update, and delete custom data.
+
+== Installation ==
+This section describes how to install the plugin and get it working.
+
+1. **Upload Plugin:**
+   - Download the plugin from [link-to-github.zip].
+   - Upload the `plugin-name` directory to the `/wp-content/plugins/` directory.
+
+2. **Activate the Plugin:**
+   - Activate the plugin through the 'Plugins' menu in WordPress.
+
+== Frequently Asked Questions ==
+= Is this a cool plugin? =
+Yes, absolutely! This plugin is designed to simplify the process of exposing custom data via WordPress REST API.
+
+== Changelog ==
+= v1.0.0 =
+* Initial release
+
+== Screenshots ==
+./desktopview.png
+./mobileview.png
+
+== Upgrade Notice ==
+No upgrade notice is currently available.
+
+== Donate link ==
+No donate link is currently available.
+
+== Short Description ==
+Exposes custom data via the WordPress REST API.
